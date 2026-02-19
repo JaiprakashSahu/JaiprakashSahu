@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaiprakash Sahu</h1>
-<h3 align="center">Software Engineer | Full Stack & Backend Systems | 
+<h3 align="center">Software Engineer | Full Stack & Backend Systems 
 
 ---
 
