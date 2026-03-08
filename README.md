@@ -92,12 +92,12 @@
 
 <br>
 
-### 🤝 [PeerX: Secure Auth Architecture](https://github.com/JaiprakashSahu)
-> **Robust login and authentication backend system.**
-> Designed for seamless user onboarding, secure credential management, and scalable session handling.
-> <br>🔐 **Security:** Implements strict Role-Based Access Control (RBAC) and JWT workflows.
+### ✈️ [ITILITE Clone: Travel & Expense Management](https://github.com/JaiprakashSahu)
+> **Enterprise-grade expense management and approval system.**
+> Engineered complex approval workflows, Role-Based Access Control (RBAC), and comprehensive analytics dashboards.
+> <br>⚙️ **Backend:** Designed robust REST APIs focused on secure data handling and scalable business logic.
 
-<kbd> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> </kbd> <kbd> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" /> </kbd>
+<kbd> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> </kbd> <kbd> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express" /> </kbd> <kbd> <img src="https://img.shields.io/badge/RBAC-000000?style=flat" alt="RBAC" /> </kbd>
 
 <br>
 
