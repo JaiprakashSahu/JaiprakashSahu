@@ -61,33 +61,43 @@
 
 <br>
 
-<h2 align="center">🏆 Highlighted Projects</h2>
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 MemScan (IEEE Published)</h3>
-      <p>Automated memory forensics system detecting fileless malware using <b>Volatility 3</b> & <b>YARA</b>. Achieved <b>26× faster analysis</b>.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Python-Research-blue?style=flat-square" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💰 Project Lumen</h3>
-      <p>Personal finance management system featuring <b>AI-driven financial intelligence</b> and robust user dashboards.</p>
-      <p align="center"><img src="https://img.shields.io/badge/Next.js-Supabase-green?style=flat-square" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 AI Course Generator</h3>
-      <p>Full-stack LLM-powered platform generating structured courses & quizzes with <b>PostgreSQL JSON</b> storage.</p>
-      <p align="center"><img src="https://img.shields.io/badge/React-PostgreSQL-blue?style=flat-square" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤝 PeerX</h3>
-      <p>Secure login and authentication architecture designed for seamless user onboarding and role-based session management.</p>
-      <p align="center"><img src="https://img.shields.io/badge/TypeScript-JWT-green?style=flat-square" /></p>
-    </td>
-  </tr>
-</table>
+<h2 align="center">🏆 Featured Projects Showcase</h2>
+
+<br>
+
+### 🧠 [MemScan: IEEE Published Research](https://github.com/JaiprakashSahu)
+> **Automated memory forensics system detecting fileless malware.**
+> Engineered using Volatility 3 to parse complex memory dumps and execute YARA rules.
+> <br>📈 **Impact:** Achieved **26× faster analysis** compared to traditional manual workflows.
+
+<kbd> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> </kbd> <kbd> <img src="https://img.shields.io/badge/Volatility_3-000000?style=flat" alt="Volatility 3" /> </kbd> <kbd> <img src="https://img.shields.io/badge/YARA-E34F26?style=flat" alt="YARA" /> </kbd>
+
+<br>
+
+### 💰 [Project Lumen: AI Financial Intelligence](https://github.com/JaiprakashSahu)
+> **Next-generation personal finance management system.**
+> Integrates AI-driven financial intelligence to analyze spending habits alongside robust user dashboards.
+> <br>⚡ **Architecture:** Built with scalable backend workflows and real-time database synchronization.
+
+<kbd> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /> </kbd> <kbd> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" /> </kbd> <kbd> <img src="https://img.shields.io/badge/LLM_APIs-FF9900?style=flat" alt="LLMs" /> </kbd>
+
+<br>
+
+### 📚 [AI Course Generator](https://github.com/JaiprakashSahu)
+> **Full-stack EdTech platform powered by Large Language Models.**
+> Dynamically generates structured courses, modules, and interactive quizzes based on user prompts.
+> <br>🗄️ **Data:** Utilizes robust PostgreSQL JSON storage for dynamic, nested content delivery.
+
+<kbd> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> </kbd> <kbd> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </kbd> <kbd> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> </kbd>
+
+<br>
+
+### 🤝 [PeerX: Secure Auth Architecture](https://github.com/JaiprakashSahu)
+> **Robust login and authentication backend system.**
+> Designed for seamless user onboarding, secure credential management, and scalable session handling.
+> <br>🔐 **Security:** Implements strict Role-Based Access Control (RBAC) and JWT workflows.
+
+<kbd> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> </kbd> <kbd> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" /> </kbd>
 
 <br>
 
