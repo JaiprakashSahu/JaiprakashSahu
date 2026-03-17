@@ -19,12 +19,13 @@
       <h2>🚀 About Me</h2>
       <ul>
         <li>🎓 <b>B.Tech CSE (3rd Year)</b> @ IIIT Naya Raipur, actively targeting <b>SDE roles</b>.</li>
-      
         <li>⚙️ <b>Focus:</b> Designing robust APIs, scalable architectures, and AI-integrated applications.</li>
-          <li>🧠 <b>Researcher:</b> IEEE Published Author specializing in Memory Forensics & Malware Detection.</li>
+        <li>🧠 <b>Researcher:</b> IEEE Published Author specializing in Memory Forensics & Malware Detection.</li>
         <li>⚡ <b>Outside of code:</b> You'll find me hitting the gym, dialing in my macros, or brainstorming UI/UX designs for my next project.</li>
       </ul>
     </td>
+
+    <!-- ✅ Correct second column -->
     <td width="40%" align="center" valign="center">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation"/>
     </td>
