@@ -21,6 +21,7 @@
         <li>🎓 <b>B.Tech CSE (3rd Year)</b> @ IIIT Naya Raipur, actively targeting <b>SDE roles</b>.</li>
       
         <li>⚙️ <b>Focus:</b> Designing robust APIs, scalable architectures, and AI-integrated applications.</li>
+          <li>🧠 <b>Researcher:</b> IEEE Published Author specializing in Memory Forensics & Malware Detection.</li>
         <li>⚡ <b>Outside of code:</b> You'll find me hitting the gym, dialing in my macros, or brainstorming UI/UX designs for my next project.</li>
       </ul>
     </td>
