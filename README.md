@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jaiprakash!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20IEEE%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jaiprakash!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20IEEE%20Researcher&descAlignY=55&descAlign=50" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -19,13 +19,11 @@
       <h2>🚀 About Me</h2>
       <ul>
         <li>🎓 <b>B.Tech CSE (3rd Year)</b> @ IIIT Naya Raipur, actively targeting <b>SDE roles</b>.</li>
-        <li>⚙️ <b>Focus:</b> Designing robust APIs, scalable architectures, and AI-integrated applications.</li>
         <li>🧠 <b>Researcher:</b> IEEE Published Author specializing in Memory Forensics & Malware Detection.</li>
-        <li>⚡ <b>Outside of code:</b> You'll find me hitting the gym, dialing in my macros, or brainstorming UI/UX designs for my next project.</li>
+        <li>⚙️ <b>Focus:</b> Designing robust APIs, scalable architectures, and AI-integrated applications.</li>
+        <li>⚡ <b>Outside of code:</b> You'll find me hitting the gym and tracking my macros, tweaking UI/UX designs to perfection, or editing video content.</li>
       </ul>
     </td>
-
-    <!-- ✅ Correct second column -->
     <td width="40%" align="center" valign="center">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation"/>
     </td>
@@ -64,7 +62,6 @@
 <br>
 
 <h2 align="center">🏆 Featured Projects Showcase</h2>
-
 <br>
 
 ### 🧠 [MemScan: IEEE Published Research](https://github.com/JaiprakashSahu)
@@ -85,15 +82,6 @@
 
 <br>
 
-### 📚 [AI Course Generator](https://github.com/JaiprakashSahu)
-> **Full-stack EdTech platform powered by Large Language Models.**
-> Dynamically generates structured courses, modules, and interactive quizzes based on user prompts.
-> <br>🗄️ **Data:** Utilizes robust PostgreSQL JSON storage for dynamic, nested content delivery.
-
-<kbd> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> </kbd> <kbd> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </kbd> <kbd> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /> </kbd>
-
-<br>
-
 ### ✈️ [ITILITE Clone: Travel & Expense Management](https://github.com/JaiprakashSahu)
 > **Enterprise-grade expense management and approval system.**
 > Engineered complex approval workflows, Role-Based Access Control (RBAC), and comprehensive analytics dashboards.
@@ -103,17 +91,28 @@
 
 <br>
 
+### 📚 [AI Course Generator](https://github.com/JaiprakashSahu)
+> **Full-stack EdTech platform powered by Large Language Models.**
+> Dynamically generates structured courses, modules, and interactive quizzes based on user prompts.
+> <br>🗄️ **Data:** Utilizes robust PostgreSQL JSON storage for dynamic, nested content delivery.
+
+<kbd> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /> </kbd> <kbd> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </kbd> <kbd> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" /> </kbd>
+
+<br>
+
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaiprakashSahu&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&title_color=007ACC&icon_color=007ACC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiprakashSahu&theme=react&hide_border=true&ring=007ACC&fire=007ACC&currStreakNum=007ACC" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaiprakashSahu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiprakashSahu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiprakashSahu&layout=compact&theme=react&hide_border=true&title_color=007ACC" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiprakashSahu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
+
+<br>
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=000000&center=true&vCenter=true&width=600&lines=%22Build+systems+that+scale.+Secure+them.+Optimize+them.%22;-%20Jaiprakash%20Sahu" alt="Quote SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=007ACC&center=true&vCenter=true&width=600&lines=%22Build+systems+that+scale.+Secure+them.+Optimize+them.%22;-%20Jaiprakash%20Sahu" alt="Quote SVG" />
 </p>
