@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jaiprakash!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20IEEE%20Researcher&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Jaiprakash!&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Backend%20Systems&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
       <h2>🚀 About Me</h2>
       <ul>
         <li>🎓 <b>B.Tech CSE (3rd Year)</b> @ IIIT Naya Raipur, actively targeting <b>SDE roles</b>.</li>
-        <li>🧠 <b>Researcher:</b> IEEE Published Author specializing in Memory Forensics & Malware Detection.</li>
+        <li>🧠 <b>Researcher:</b> Specializing in Memory Forensics & Malware Detection.</li>
         <li>⚙️ <b>Focus:</b> Designing robust APIs, scalable architectures, and AI-integrated applications.</li>
         <li>⚡ <b>Outside of code:</b> You'll find me hitting the gym, dialing in my macros, or brainstorming UI/UX designs for my next project.</li>
       </ul>
@@ -65,7 +65,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 MemScan (IEEE Published)</h3>
+      <h3 align="center">🧠 MemScan</h3>
       <p>Automated memory forensics system detecting fileless malware using <b>Volatility 3</b> & <b>YARA</b>. Achieved <b>26× faster analysis</b>.</p>
       <p align="center"><img src="https://img.shields.io/badge/Python-Research-blue?style=flat-square" /></p>
     </td>
@@ -82,10 +82,7 @@
       <p align="center"><img src="https://img.shields.io/badge/React-PostgreSQL-blue?style=flat-square" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤝 PeerX</h3>
-      <p>Secure login and authentication architecture designed for seamless user onboarding and role-based session management.</p>
-      <p align="center"><img src="https://img.shields.io/badge/TypeScript-JWT-green?style=flat-square" /></p>
-    </td>
+      </td>
   </tr>
 </table>
 
